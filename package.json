@@ -1,6 +1,6 @@
 {
-  "name": "my-react-app",
-  "version": "0.1.0",
+  "name": "ATSolutions",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://KRISMOK95.github.io/my-react-app",
+  "homepage": "https://KRISMOK95.github.io/ATSolutions",
   "eslintConfig": {
     "extends": [
       "react-app",
